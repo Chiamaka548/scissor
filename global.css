@@ -9,34 +9,54 @@ body {
   --h2-bold: Poppins;
 
   /* font sizes */
+  --h4-bold-size: 16px;
   --font-size-base: 16px;
   --font-size-lg: 18px;
   --h2-bold-size: 24px;
   --font-size-13xl: 32px;
-  --font-size-21xl: 40px;
+  --h0-bold-size: 40px;
+  --font-size-sm: 14px;
+  --font-size-xl: 20px;
+  --font-size-xs: 12px;
+
 
   /* Colors */
   --neutral-white: #fff;
   --primary-300-base: #0065fe;
+  --neutral-800: #112232;
+  --neutral-900: #071827;
   --text-color-main-text: #141414;
-  --color-royalblue: #005ae2;
+  --primary-400: #005ae2;
+  --color-dodgerblue-100: #4991ff;
+  --primary-100: #3284ff;
+  --color-black: #000;
 
   /* Gaps */
+  --gap-5xl: 24px;
   --gap-3xs: 10px;
   --gap-21xl: 40px;
   --gap-5xs: 8px;
   --gap-base: 16px;
+  --gap-13xl: 32px;
+  --gap-37xl: 56px;
+  --gap-45xl: 64px;
   --gap-9xl: 28px;
   --gap-53xl: 72px;
   --gap-9xs: 4px;
+  --gap-xs: 12px;
 
 
   /* Paddings */
   --padding-xs: 12px;
   --padding-5xl: 24px;
   --padding-9xs: 4px;
+  --padding-5xs: 8px;
   --padding-41xl: 60px;
 
   /* border radiuses */
   --br-81xl: 100px;
+  --br-xs: 12px;
+
+  /* Effects */
+  --drop-shadow: 0px 4px 8px rgba(0, 0, 0, 0.05);
 }
